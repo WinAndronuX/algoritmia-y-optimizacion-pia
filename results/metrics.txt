@@ -1,0 +1,4 @@
+majority_baseline: 2opt_hill_climbing acc=0.6846
+DecisionTree: acc=0.7114 regret=0.031350
+KNN: acc=0.6913 regret=0.042265
+RandomForest: acc=0.6577 regret=0.038007
